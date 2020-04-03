@@ -90,6 +90,7 @@ Telugu:
   size2: 40
   size3: 30
   size5: 20
+  widthreduce: 8
 Odia:
   font1: Noto/Odia/NotoSansOriya-Regular.ttf 
   font2: Noto/Odia/NotoSansOriya-Bold.ttf 
@@ -124,9 +125,9 @@ Khasi:
   font5: Noto/English/Montserrat-Bold.ttf 
   size1: 20
   size2: 30
-  size3: 20
-  size5: 15
-  widthreduce: 5
+  size3: 24
+  size5: 20
+  widthreduce: 3
 Nepali:
   font1: Noto/Devanagari/NotoSansDevanagari-Regular.ttf 
   font2: Noto/Devanagari/NotoSansDevanagari-Bold.ttf 
